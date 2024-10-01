@@ -1,5 +1,5 @@
 body {
-    background-color: #f9f7fe;
+    background-color: #0a8ab4;
     font-family: sans-serif;
   }
   
@@ -25,7 +25,7 @@ body {
   .container {
     max-width: 600px;
     margin: 60px auto;
-    background: white;
+    background: #b1e9fc;
     padding: 30px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 10px;
@@ -61,5 +61,5 @@ body {
   footer {
     text-align: center;
     font-size: 18px;
-    color: rgba(0, 0, 0, 0.8);
+    color: white;
   }
